@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CLIAnagramChecker": {
+      "commandName": "Project",
+      "commandLineArgs": "getPermutations abcd"
+    }
+  }
+}
